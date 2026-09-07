@@ -2,21 +2,21 @@ about:
   description: "Flowrs is a TUI application for Apache Airflow that allows you to monitor, inspect and trigger Airflow DAGs from the comforts of your terminal."
   license: MIT
   homepage: 
-  head: 5bca976
+  head: aaca6cb
   archived: false
-  latestVersion: "flowrs-tui-v0.15.0"
-  collectedAt: 2026-09-07T04:43:36Z
+  latestVersion: "flowrs-tui-v0.15.2"
+  collectedAt: 2026-09-07T19:45:47Z
 timeline:
   created: 2023-01-16
-  lastCommit: 2026-09-02
-  lastRelease: 2026-09-02
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
   star: 173
   watcher: 2
   fork: 17
-  release: 104
+  release: 106
   contributor: 11
-  pullRequest: 622
+  pullRequest: 626
   issue: 100
 language:
   Rust: 648819
@@ -27,62 +27,62 @@ totalBytes: 665718
 recent:
   last30d:
     since: 2026-08-08
-    release: 8
-    mergedPR: 13
+    release: 10
+    mergedPR: 17
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 15
+    commit: 20
   last60d:
     since: 2026-07-09
-    release: 22
-    mergedPR: 48
+    release: 24
+    mergedPR: 52
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 59
+    commit: 64
   last90d:
     since: 2026-06-09
-    release: 29
-    mergedPR: 58
+    release: 31
+    mergedPR: 62
     openPR: 1
     closedIssue: 1
     openIssue: 0
-    commit: 86
+    commit: 91
   last180d:
     since: 2026-03-11
-    release: 49
-    mergedPR: 94
+    release: 51
+    mergedPR: 98
     openPR: 1
     closedIssue: 4
     openIssue: 2
-    commit: 118
+    commit: 123
   last360d:
     since: 2025-09-12
-    release: 91
-    mergedPR: 270
+    release: 93
+    mergedPR: 274
     openPR: 1
     closedIssue: 22
     openIssue: 4
-    commit: 336
+    commit: 341
   last720d:
     since: 2024-09-17
     release: 100
-    mergedPR: 398
+    mergedPR: 402
     openPR: 1
     closedIssue: 64
     openIssue: 4
-    commit: 682
+    commit: 691
 total:
-  release: 104
-  mergedPR: 567
+  release: 106
+  mergedPR: 571
   openPR: 1
   closedIssue: 95
   openIssue: 5
-  commit: 682
+  commit: 691
 ---
 path: /home/runner/.x-repo/github.com/jvanbuel/flowrs
-collectedAt: 2026-09-07T04:43:38Z
+collectedAt: 2026-09-07T19:45:49Z
 loc:
   Rust:
     code: 15883
@@ -111,29 +111,29 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 3362
-    blanks: 1906
+    comments: 3368
+    blanks: 1912
     files: 29
 total:
   code: 20158
-  comments: 5006
-  blanks: 4594
+  comments: 5012
+  blanks: 4600
   files: 213
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:43:38+00:00
+  collectedAt: 2026-09-07T19:45:50+00:00
   platform:
     darwin/arm64:
       name:  flowrs-tui-aarch64-apple-darwin.tar.xz
-      url:   https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.0/flowrs-tui-aarch64-apple-darwin.tar.xz
-      size:  3358932
+      url:   https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-aarch64-apple-darwin.tar.xz
+      size:  3338552
       score: 45
     darwin/amd64:
       name:  flowrs-tui-x86_64-apple-darwin.tar.xz
-      url:   https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.0/flowrs-tui-x86_64-apple-darwin.tar.xz
-      size:  3474700
+      url:   https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-x86_64-apple-darwin.tar.xz
+      size:  3481820
       score: 45
     linux/arm64:
       name:  null
@@ -142,8 +142,8 @@ eget:
       score: null
     linux/amd64:
       name:  flowrs-tui-x86_64-unknown-linux-gnu.tar.xz
-      url:   https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.0/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz
-      size:  3786500
+      url:   https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz
+      size:  3788160
       score: 45
     win/arm64:
       name:  null
