@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3338552,
       "digest": "sha256:c9fd440cde2e3ca205370588edafce538b900cb4129df7e20502545456c71b33",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-07T15:01:52Z",
       "updated_at": "2026-09-07T15:01:52Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-aarch64-apple-darwin.tar.xz"
