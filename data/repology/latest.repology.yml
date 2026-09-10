@@ -1,0 +1,14 @@
+- repo: homebrew
+  srcname: flowrs
+  visiblename: flowrs
+  version: 0.15.2
+  origversion: null
+  status: unique
+  summary: TUI application for Apache Airflow
+- repo: homebrew
+  srcname: flowrs
+  visiblename: flowrs
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI application for Apache Airflow
