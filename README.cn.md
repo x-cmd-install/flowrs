@@ -4,7 +4,7 @@
 
 Flowrs is a TUI application for Apache Airflow that allows you to monitor, inspect and trigger Airflow DAGs from the comforts of your terminal.
 
-![flowrs](https://repo.x-cmd.io/flowrs.svg)
+![flowrs](https://repo.x-cmd.io/flowrs.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,26 @@ x install flowrs
 - **最新版本**: `flowrs-tui-v0.15.2` (2026-09-07)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 15 个
-- **发布时间**: 2026-09-07T15:01:54Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dist-manifest.json](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/dist-manifest.json) | 15.7 KiB | `other` |
+| [flowrs-tui-aarch64-apple-darwin-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-aarch64-apple-darwin-update) | 5.8 MiB | `native/darwin/arm64` |
+| [flowrs-tui-aarch64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-aarch64-apple-darwin.tar.xz) | 3.2 MiB | `native/darwin/arm64` |
+| [flowrs-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
+| [flowrs-tui-installer.sh](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-installer.sh) | 48.5 KiB | `other` |
+| [flowrs-tui-x86_64-apple-darwin-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-x86_64-apple-darwin-update) | 6.0 MiB | `native/darwin/x64` |
+| [flowrs-tui-x86_64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-x86_64-apple-darwin.tar.xz) | 3.3 MiB | `native/darwin/x64` |
+| [flowrs-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
+| [flowrs-tui-x86_64-unknown-linux-gnu-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-x86_64-unknown-linux-gnu-update) | 6.6 MiB | `native/linux/x64/glibc` |
+| [flowrs-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.6 MiB | `native/linux/x64/glibc` |
+| [flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
+| [flowrs.rb](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/flowrs.rb) | 2.0 KiB | `other` |
+| [sha256.sum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/sha256.sum) | 399 B | `other` |
+| [source.tar.gz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/source.tar.gz) | 8.4 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.15.2/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 流行度
 
@@ -61,4 +80,4 @@ flowrs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:53:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:34:16Z._
