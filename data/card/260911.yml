@@ -7,7 +7,7 @@ about:
   latestVersion: "flowrs-tui-v0.15.2"
   latestRelease: "flowrs-tui-v0.15.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:47:48Z
+  collectedAt: 2026-09-11T20:10:07Z
 timeline:
   created: 2023-01-16
   lastCommit: 2026-09-07
@@ -86,7 +86,7 @@ total:
   commit: 691
 ---
 path: /home/runner/.x-repo/github.com/jvanbuel/flowrs
-collectedAt: 2026-09-11T04:47:50Z
+collectedAt: 2026-09-11T20:10:10Z
 loc:
   Rust:
     code: 15883
