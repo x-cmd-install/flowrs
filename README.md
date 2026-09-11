@@ -47,12 +47,12 @@ Total: **16,866** lines of code across **184** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 14 | 1 | 0 | 0 | 20 |
-| last60d | 2026-07-12 | 18 | 51 | 1 | 0 | 0 | 64 |
-| 90d | 2026-06-12 | 31 | 62 | 1 | 1 | 0 | 91 |
-| last180d | 2026-03-14 | 47 | 93 | 1 | 2 | 2 | 123 |
-| 360d | 2025-09-15 | 93 | 270 | 1 | 22 | 4 | 341 |
-| last720d | 2024-09-20 | 100 | 402 | 1 | 64 | 4 | 691 |
+| 30d | 2026-08-12 | 10 | 14 | 1 | 0 | 0 | 20 |
+| last60d | 2026-07-13 | 18 | 51 | 1 | 0 | 0 | 64 |
+| 90d | 2026-06-13 | 31 | 62 | 1 | 1 | 0 | 91 |
+| last180d | 2026-03-15 | 45 | 91 | 1 | 2 | 2 | 123 |
+| 360d | 2025-09-16 | 93 | 270 | 1 | 22 | 4 | 341 |
+| last720d | 2024-09-21 | 100 | 402 | 1 | 64 | 4 | 691 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for flowrs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:55:38Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:47:55Z._
