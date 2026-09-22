@@ -41,18 +41,18 @@ Total: **16,866** lines of code across **184** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 571 · **Open PRs**: 1 · **Closed issues**: 95 · **Open issues**: 5 · **Commits**: 691
+- **Releases**: 106 · **Merged PRs**: 571 · **Open PRs**: 5 · **Closed issues**: 95 · **Open issues**: 5 · **Commits**: 691
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 9 | 12 | 1 | 0 | 0 | 13 |
-| last60d | 2026-07-23 | 14 | 24 | 1 | 0 | 0 | 26 |
-| 90d | 2026-06-23 | 27 | 57 | 1 | 1 | 0 | 82 |
-| last180d | 2026-03-25 | 43 | 87 | 1 | 1 | 2 | 118 |
-| 360d | 2025-09-26 | 93 | 265 | 1 | 22 | 4 | 332 |
-| last720d | 2024-10-01 | 100 | 402 | 1 | 64 | 4 | 691 |
+| 30d | 2026-08-23 | 9 | 12 | 5 | 0 | 0 | 13 |
+| last60d | 2026-07-24 | 14 | 24 | 5 | 0 | 0 | 26 |
+| 90d | 2026-06-24 | 27 | 57 | 5 | 1 | 0 | 82 |
+| last180d | 2026-03-26 | 43 | 87 | 5 | 1 | 2 | 118 |
+| 360d | 2025-09-27 | 93 | 265 | 5 | 22 | 4 | 332 |
+| last720d | 2024-10-02 | 100 | 402 | 5 | 64 | 4 | 691 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for flowrs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:10:39Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:15Z._
