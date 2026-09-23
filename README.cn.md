@@ -4,7 +4,7 @@
 
 Flowrs is a TUI application for Apache Airflow that allows you to monitor, inspect and trigger Airflow DAGs from the comforts of your terminal.
 
-[![x-cmd/install — flowrs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flowrs.svg?lang=zh)](https://x-cmd.com/install/flowrs)
+[![x-cmd/install — flowrs Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/flowrs.svg?lang=zh)](https://x-cmd.com/install/flowrs)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install flowrs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 9 | 12 | 5 | 0 | 0 | 13 |
-| last60d | 2026-07-24 | 14 | 24 | 5 | 0 | 0 | 26 |
-| 90d | 2026-06-24 | 27 | 57 | 5 | 1 | 0 | 82 |
-| last180d | 2026-03-26 | 43 | 87 | 5 | 1 | 2 | 118 |
-| 360d | 2025-09-27 | 93 | 265 | 5 | 22 | 4 | 332 |
-| last720d | 2024-10-02 | 100 | 402 | 5 | 64 | 4 | 691 |
+| 30d | 2026-08-24 | 9 | 9 | 5 | 0 | 0 | 13 |
+| last60d | 2026-07-25 | 14 | 24 | 5 | 0 | 0 | 26 |
+| 90d | 2026-06-25 | 27 | 57 | 5 | 1 | 0 | 82 |
+| last180d | 2026-03-27 | 43 | 87 | 5 | 1 | 2 | 118 |
+| 360d | 2025-09-28 | 93 | 265 | 5 | 22 | 4 | 332 |
+| last720d | 2024-10-03 | 100 | 402 | 5 | 64 | 4 | 691 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ flowrs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:09:15Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:05:06Z._
