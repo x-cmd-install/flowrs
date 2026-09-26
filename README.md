@@ -32,27 +32,27 @@ Total: **16,866** lines of code across **184** files in the top 5 languages.
 ## Release
 
 - **Latest**: `flowrs-tui-v0.15.2` (2026-09-07)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-26
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 173 · **Forks**: 18 · **Open issues**: 100 · **Contributors**: 11
+- **Stars**: 174 · **Forks**: 19 · **Open issues**: 100 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 571 · **Open PRs**: 5 · **Closed issues**: 95 · **Open issues**: 5 · **Commits**: 691
+- **Releases**: 106 · **Merged PRs**: 575 · **Open PRs**: 3 · **Closed issues**: 95 · **Open issues**: 5 · **Commits**: 697
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 8 | 9 | 5 | 0 | 0 | 13 |
-| last60d | 2026-07-27 | 14 | 21 | 5 | 0 | 0 | 26 |
-| 90d | 2026-06-27 | 27 | 56 | 5 | 1 | 0 | 82 |
-| last180d | 2026-03-29 | 43 | 87 | 5 | 1 | 2 | 118 |
-| 360d | 2025-09-30 | 93 | 261 | 5 | 22 | 4 | 332 |
-| last720d | 2024-10-05 | 100 | 402 | 5 | 64 | 4 | 691 |
+| 30d | 2026-08-27 | 8 | 13 | 3 | 0 | 0 | 17 |
+| last60d | 2026-07-28 | 14 | 25 | 3 | 0 | 0 | 30 |
+| 90d | 2026-06-28 | 27 | 60 | 3 | 1 | 0 | 86 |
+| last180d | 2026-03-30 | 43 | 90 | 3 | 1 | 2 | 122 |
+| 360d | 2025-10-01 | 93 | 265 | 3 | 22 | 4 | 336 |
+| last720d | 2024-10-06 | 100 | 406 | 3 | 64 | 4 | 697 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for flowrs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:06:32Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:06:48Z._
