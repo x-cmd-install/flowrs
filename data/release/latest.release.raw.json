@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 17149,
       "digest": "sha256:b3ca10acfa9cb4a8c75aa201d26920124033804b004cb64896353e794dc893b7",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-08T15:58:26Z",
       "updated_at": "2026-10-08T15:58:27Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.0/dist-manifest.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3802816,
       "digest": "sha256:b6da064f2293268e853359f5c80e22e708509d27702f44dae110d60e6785836b",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-08T15:58:28Z",
       "updated_at": "2026-10-08T15:58:28Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.0/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz"
