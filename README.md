@@ -32,7 +32,7 @@ Total: **17,178** lines of code across **185** files in the top 5 languages.
 ## Release
 
 - **Latest**: `flowrs-tui-v0.16.0` (2026-10-08)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-19
 - **Assets in release**: 15
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **17,178** lines of code across **185** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 109 · **Merged PRs**: 581 · **Open PRs**: 5 · **Closed issues**: 96 · **Open issues**: 5 · **Commits**: 708
+- **Releases**: 109 · **Merged PRs**: 583 · **Open PRs**: 5 · **Closed issues**: 96 · **Open issues**: 5 · **Commits**: 710
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 3 | 10 | 4 | 1 | 0 | 11 |
-| last60d | 2026-08-20 | 12 | 22 | 5 | 1 | 0 | 27 |
-| 90d | 2026-07-21 | 17 | 34 | 5 | 1 | 0 | 44 |
-| last180d | 2026-04-22 | 46 | 91 | 5 | 2 | 0 | 121 |
-| 360d | 2025-10-24 | 86 | 246 | 5 | 14 | 4 | 320 |
-| last720d | 2024-10-29 | 100 | 406 | 5 | 65 | 4 | 708 |
+| 30d | 2026-09-20 | 3 | 12 | 4 | 1 | 0 | 13 |
+| last60d | 2026-08-21 | 12 | 24 | 5 | 1 | 0 | 29 |
+| 90d | 2026-07-22 | 17 | 36 | 5 | 1 | 0 | 46 |
+| last180d | 2026-04-23 | 46 | 92 | 5 | 2 | 0 | 123 |
+| 360d | 2025-10-25 | 86 | 248 | 5 | 14 | 4 | 322 |
+| last720d | 2024-10-30 | 100 | 408 | 5 | 65 | 4 | 710 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for flowrs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:55:59Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:56:45Z._
