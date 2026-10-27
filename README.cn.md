@@ -31,8 +31,8 @@ x install flowrs
 
 ## 发布
 
-- **最新版本**: `flowrs-tui-v0.16.1` (2026-10-20)
-- **最近提交**: 2026-10-20
+- **最新版本**: `flowrs-tui-v0.16.2` (2026-10-26)
+- **最近提交**: 2026-10-26
 - **Release 含资产**: 15 个
 
 ## 流行度
@@ -41,38 +41,38 @@ x install flowrs
 
 ## 累计统计
 
-- **发布数**: 110 · **已合并 PR**: 585 · **开放 PR**: 4 · **已关闭 issue**: 97 · **开放 issue**: 5 · **提交数**: 712
+- **发布数**: 111 · **已合并 PR**: 590 · **开放 PR**: 4 · **已关闭 issue**: 97 · **开放 issue**: 5 · **提交数**: 717
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 4 | 8 | 3 | 2 | 0 | 8 |
-| last60d | 2026-08-27 | 12 | 23 | 4 | 2 | 0 | 27 |
-| 90d | 2026-07-28 | 18 | 35 | 4 | 2 | 0 | 44 |
-| last180d | 2026-04-29 | 44 | 92 | 4 | 3 | 0 | 125 |
-| 360d | 2025-10-31 | 87 | 250 | 4 | 15 | 4 | 322 |
-| last720d | 2024-11-05 | 100 | 408 | 4 | 65 | 4 | 712 |
+| 30d | 2026-09-27 | 5 | 13 | 3 | 2 | 0 | 13 |
+| last60d | 2026-08-28 | 13 | 28 | 4 | 2 | 0 | 32 |
+| 90d | 2026-07-29 | 16 | 40 | 4 | 2 | 0 | 49 |
+| last180d | 2026-04-30 | 45 | 97 | 4 | 3 | 0 | 130 |
+| 360d | 2025-11-01 | 88 | 255 | 4 | 15 | 4 | 327 |
+| last720d | 2024-11-06 | 100 | 413 | 4 | 65 | 4 | 717 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [dist-manifest.json](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/dist-manifest.json) | 16.3 KiB | `other` |
-| [flowrs-tui-aarch64-apple-darwin-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-aarch64-apple-darwin-update) | 5.8 MiB | `native/darwin/arm64` |
-| [flowrs-tui-aarch64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-aarch64-apple-darwin.tar.xz) | 3.2 MiB | `native/darwin/arm64` |
-| [flowrs-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
-| [flowrs-tui-installer.sh](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-installer.sh) | 48.5 KiB | `other` |
-| [flowrs-tui-x86_64-apple-darwin-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-apple-darwin-update) | 6.0 MiB | `native/darwin/x64` |
-| [flowrs-tui-x86_64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-apple-darwin.tar.xz) | 3.3 MiB | `native/darwin/x64` |
-| [flowrs-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
-| [flowrs-tui-x86_64-unknown-linux-gnu-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-unknown-linux-gnu-update) | 6.6 MiB | `native/linux/x64/glibc` |
-| [flowrs-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.6 MiB | `native/linux/x64/glibc` |
-| [flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
-| [flowrs.rb](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs.rb) | 2.0 KiB | `other` |
-| [sha256.sum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/sha256.sum) | 399 B | `other` |
-| [source.tar.gz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/source.tar.gz) | 8.4 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/source.tar.gz.sha256) | 81 B | `other` |
+| [dist-manifest.json](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/dist-manifest.json) | 16.3 KiB | `other` |
+| [flowrs-tui-aarch64-apple-darwin-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-aarch64-apple-darwin-update) | 5.8 MiB | `native/darwin/arm64` |
+| [flowrs-tui-aarch64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-aarch64-apple-darwin.tar.xz) | 3.2 MiB | `native/darwin/arm64` |
+| [flowrs-tui-aarch64-apple-darwin.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
+| [flowrs-tui-installer.sh](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-installer.sh) | 48.5 KiB | `other` |
+| [flowrs-tui-x86_64-apple-darwin-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-apple-darwin-update) | 6.0 MiB | `native/darwin/x64` |
+| [flowrs-tui-x86_64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-apple-darwin.tar.xz) | 3.3 MiB | `native/darwin/x64` |
+| [flowrs-tui-x86_64-apple-darwin.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
+| [flowrs-tui-x86_64-unknown-linux-gnu-update](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-unknown-linux-gnu-update) | 6.6 MiB | `native/linux/x64/glibc` |
+| [flowrs-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz) | 3.6 MiB | `native/linux/x64/glibc` |
+| [flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
+| [flowrs.rb](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs.rb) | 2.0 KiB | `other` |
+| [sha256.sum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/sha256.sum) | 399 B | `other` |
+| [source.tar.gz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/source.tar.gz) | 8.4 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 改进这些数据
 
@@ -83,4 +83,4 @@ flowrs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:51:33Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:10:48Z._
