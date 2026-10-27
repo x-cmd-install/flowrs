@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: flowrs
   visiblename: flowrs
-  version: 0.16.1
+  version: 0.16.2
   origversion: null
   status: unique
   summary: TUI application for Apache Airflow

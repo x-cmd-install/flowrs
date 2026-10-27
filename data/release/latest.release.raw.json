@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/418417766",
-  "assets_url": "https://api.github.com/repos/jvanbuel/flowrs/releases/418417766/assets",
-  "upload_url": "https://uploads.github.com/repos/jvanbuel/flowrs/releases/418417766/assets{?name,label}",
-  "html_url": "https://github.com/jvanbuel/flowrs/releases/tag/flowrs-tui-v0.16.1",
-  "id": 418417766,
+  "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/424022661",
+  "assets_url": "https://api.github.com/repos/jvanbuel/flowrs/releases/424022661/assets",
+  "upload_url": "https://uploads.github.com/repos/jvanbuel/flowrs/releases/424022661/assets{?name,label}",
+  "html_url": "https://github.com/jvanbuel/flowrs/releases/tag/flowrs-tui-v0.16.2",
+  "id": 424022661,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIyKbPs4Y8Ixm",
-  "tag_name": "flowrs-tui-v0.16.1",
-  "target_commitish": "4851372b2c2b33f5e9dc0ad7827a3e67577dd6b8",
-  "name": "0.16.1 - 2026-10-20",
+  "node_id": "RE_kwDOIyKbPs4ZRhKF",
+  "tag_name": "flowrs-tui-v0.16.2",
+  "target_commitish": "ffee6417bc0f9037728ed023039f61eb3cd0c61b",
+  "name": "0.16.2 - 2026-10-26",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-20T13:01:04Z",
-  "updated_at": "2026-10-20T13:13:34Z",
-  "published_at": "2026-10-20T13:13:34Z",
+  "created_at": "2026-10-26T08:47:11Z",
+  "updated_at": "2026-10-26T08:54:15Z",
+  "published_at": "2026-10-26T08:54:15Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373780",
-      "id": 659373780,
-      "node_id": "RA_kwDOIyKbPs4nTT7U",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573554",
+      "id": 677573554,
+      "node_id": "RA_kwDOIyKbPs4oYvOy",
       "name": "dist-manifest.json",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/json",
       "state": "uploaded",
-      "size": 16681,
-      "digest": "sha256:e7d02e9e3872fb01144d150f63a513735ca3e9ef009843dac1d19e27a1f6ee4c",
+      "size": 16737,
+      "digest": "sha256:2ff2cc87e63a96657724ecaf1c525eaef199642eb50ca1d1c18e39f0cbcebfe1",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:32Z",
-      "updated_at": "2026-10-20T13:13:32Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/dist-manifest.json"
+      "created_at": "2026-10-26T08:54:12Z",
+      "updated_at": "2026-10-26T08:54:12Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/dist-manifest.json"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373778",
-      "id": 659373778,
-      "node_id": "RA_kwDOIyKbPs4nTT7S",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573553",
+      "id": 677573553,
+      "node_id": "RA_kwDOIyKbPs4oYvOx",
       "name": "flowrs-tui-aarch64-apple-darwin-update",
       "label": "",
       "uploader": {
@@ -104,14 +104,14 @@
       "size": 6077328,
       "digest": "sha256:05995085f64d8402f5e863eba8d4f7aa710a375d7fec25bd5e2fd9c38a90772a",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:32Z",
-      "updated_at": "2026-10-20T13:13:32Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-aarch64-apple-darwin-update"
+      "created_at": "2026-10-26T08:54:12Z",
+      "updated_at": "2026-10-26T08:54:13Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-aarch64-apple-darwin-update"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373781",
-      "id": 659373781,
-      "node_id": "RA_kwDOIyKbPs4nTT7V",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573555",
+      "id": 677573555,
+      "node_id": "RA_kwDOIyKbPs4oYvOz",
       "name": "flowrs-tui-aarch64-apple-darwin.tar.xz",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/x-xz",
       "state": "uploaded",
-      "size": 3361140,
-      "digest": "sha256:51c18e3c9a9b604e91a215921d913047e62e88d355f997d49b5c98ca9d7df627",
-      "download_count": 8,
-      "created_at": "2026-10-20T13:13:32Z",
-      "updated_at": "2026-10-20T13:13:32Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-aarch64-apple-darwin.tar.xz"
+      "size": 3358164,
+      "digest": "sha256:0eac3c149a176b5bc025971b45ba2835fe25dea8eea7157e463d7e0c930e17aa",
+      "download_count": 5,
+      "created_at": "2026-10-26T08:54:12Z",
+      "updated_at": "2026-10-26T08:54:12Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-aarch64-apple-darwin.tar.xz"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373782",
-      "id": 659373782,
-      "node_id": "RA_kwDOIyKbPs4nTT7W",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573556",
+      "id": 677573556,
+      "node_id": "RA_kwDOIyKbPs4oYvO0",
       "name": "flowrs-tui-aarch64-apple-darwin.tar.xz.sha256",
       "label": "",
       "uploader": {
@@ -174,16 +174,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 106,
-      "digest": "sha256:982b237c47c6af1b375f1fe40b84263aeb2d0f9575627bd238b72f6733e55beb",
+      "digest": "sha256:7c3fdc5dbcefc9e71c9e9916958664b2abfbb67ebca297c9397bf885743d1e32",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:32Z",
-      "updated_at": "2026-10-20T13:13:32Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-aarch64-apple-darwin.tar.xz.sha256"
+      "created_at": "2026-10-26T08:54:12Z",
+      "updated_at": "2026-10-26T08:54:12Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-aarch64-apple-darwin.tar.xz.sha256"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373776",
-      "id": 659373776,
-      "node_id": "RA_kwDOIyKbPs4nTT7Q",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573551",
+      "id": 677573551,
+      "node_id": "RA_kwDOIyKbPs4oYvOv",
       "name": "flowrs-tui-installer.sh",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "application/x-shellscript",
       "state": "uploaded",
       "size": 49695,
-      "digest": "sha256:80f662e279fc4e20628b62ffd683348e29ff3d0919650e3b4f96b4847b06f1a6",
-      "download_count": 2,
-      "created_at": "2026-10-20T13:13:32Z",
-      "updated_at": "2026-10-20T13:13:32Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-installer.sh"
+      "digest": "sha256:c06e70b9a0e100ba443332b174e0b9814b1bb494e4f4ca6568690eb560d72fb8",
+      "download_count": 1,
+      "created_at": "2026-10-26T08:54:12Z",
+      "updated_at": "2026-10-26T08:54:12Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-installer.sh"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373799",
-      "id": 659373799,
-      "node_id": "RA_kwDOIyKbPs4nTT7n",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573573",
+      "id": 677573573,
+      "node_id": "RA_kwDOIyKbPs4oYvPF",
       "name": "flowrs-tui-x86_64-apple-darwin-update",
       "label": "",
       "uploader": {
@@ -248,14 +248,14 @@
       "size": 6290864,
       "digest": "sha256:d856c0326d97bce2b40dedb82a92edab30578a062b57deb908990a1335b64cba",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:32Z",
-      "updated_at": "2026-10-20T13:13:33Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-apple-darwin-update"
+      "created_at": "2026-10-26T08:54:12Z",
+      "updated_at": "2026-10-26T08:54:13Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-apple-darwin-update"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373803",
-      "id": 659373803,
-      "node_id": "RA_kwDOIyKbPs4nTT7r",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573576",
+      "id": 677573576,
+      "node_id": "RA_kwDOIyKbPs4oYvPI",
       "name": "flowrs-tui-x86_64-apple-darwin.tar.xz",
       "label": "",
       "uploader": {
@@ -281,17 +281,17 @@
       },
       "content_type": "application/x-xz",
       "state": "uploaded",
-      "size": 3502356,
-      "digest": "sha256:c55df7b1715786812dc13efe52ea15d8446ad3ab9a7fcb0d64212a480f874af6",
-      "download_count": 2,
-      "created_at": "2026-10-20T13:13:32Z",
-      "updated_at": "2026-10-20T13:13:33Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-apple-darwin.tar.xz"
+      "size": 3501244,
+      "digest": "sha256:e1f83db37b8a331e9ac8d5daf7f5f440b5516714e9bec3911cac39b3aec6b466",
+      "download_count": 0,
+      "created_at": "2026-10-26T08:54:12Z",
+      "updated_at": "2026-10-26T08:54:13Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-apple-darwin.tar.xz"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373810",
-      "id": 659373810,
-      "node_id": "RA_kwDOIyKbPs4nTT7y",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573580",
+      "id": 677573580,
+      "node_id": "RA_kwDOIyKbPs4oYvPM",
       "name": "flowrs-tui-x86_64-apple-darwin.tar.xz.sha256",
       "label": "",
       "uploader": {
@@ -318,16 +318,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 105,
-      "digest": "sha256:c20fac13592bc7fdea6ea60f524c4533ee37cfcb05db35d8c4706020847490de",
+      "digest": "sha256:b62618964f5bc291f43a1b9cafee26b8c21b09030c66ca28bfd72195e18ef684",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:33Z",
-      "updated_at": "2026-10-20T13:13:33Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-apple-darwin.tar.xz.sha256"
+      "created_at": "2026-10-26T08:54:13Z",
+      "updated_at": "2026-10-26T08:54:13Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-apple-darwin.tar.xz.sha256"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373825",
-      "id": 659373825,
-      "node_id": "RA_kwDOIyKbPs4nTT8B",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573585",
+      "id": 677573585,
+      "node_id": "RA_kwDOIyKbPs4oYvPR",
       "name": "flowrs-tui-x86_64-unknown-linux-gnu-update",
       "label": "",
       "uploader": {
@@ -356,14 +356,14 @@
       "size": 6912576,
       "digest": "sha256:0a1fae2d4323f45068fcc5d731baf8a544c4cd59de52e6d17479afc97a59d5c4",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:33Z",
-      "updated_at": "2026-10-20T13:13:33Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-unknown-linux-gnu-update"
+      "created_at": "2026-10-26T08:54:13Z",
+      "updated_at": "2026-10-26T08:54:13Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-unknown-linux-gnu-update"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373826",
-      "id": 659373826,
-      "node_id": "RA_kwDOIyKbPs4nTT8C",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573592",
+      "id": 677573592,
+      "node_id": "RA_kwDOIyKbPs4oYvPY",
       "name": "flowrs-tui-x86_64-unknown-linux-gnu.tar.xz",
       "label": "",
       "uploader": {
@@ -389,17 +389,17 @@
       },
       "content_type": "application/x-xz",
       "state": "uploaded",
-      "size": 3812532,
-      "digest": "sha256:ea072c4f78c798c79e3ebbcc605ffd3fa9da9c3d943b08ad089176fecb4927e8",
-      "download_count": 8,
-      "created_at": "2026-10-20T13:13:33Z",
-      "updated_at": "2026-10-20T13:13:33Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz"
+      "size": 3811068,
+      "digest": "sha256:b6ef592d537f1eac699da5a8d783d75042620c3590f771c28b27f9323511ec67",
+      "download_count": 0,
+      "created_at": "2026-10-26T08:54:13Z",
+      "updated_at": "2026-10-26T08:54:14Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373848",
-      "id": 659373848,
-      "node_id": "RA_kwDOIyKbPs4nTT8Y",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573595",
+      "id": 677573595,
+      "node_id": "RA_kwDOIyKbPs4oYvPb",
       "name": "flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256",
       "label": "",
       "uploader": {
@@ -426,16 +426,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 110,
-      "digest": "sha256:499134dd2248ddfc2acce8ac437adb99603cfdabac5bde1edb6092ff4b8ba7ec",
+      "digest": "sha256:7db32e652ec2fee5beb7178c1e8a2fd14b173e965c3ae513bcf342af0e5a37bf",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:33Z",
-      "updated_at": "2026-10-20T13:13:33Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256"
+      "created_at": "2026-10-26T08:54:13Z",
+      "updated_at": "2026-10-26T08:54:13Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373860",
-      "id": 659373860,
-      "node_id": "RA_kwDOIyKbPs4nTT8k",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573599",
+      "id": 677573599,
+      "node_id": "RA_kwDOIyKbPs4oYvPf",
       "name": "flowrs.rb",
       "label": "",
       "uploader": {
@@ -462,16 +462,16 @@
       "content_type": "application/x-ruby",
       "state": "uploaded",
       "size": 2063,
-      "digest": "sha256:5356cf28f4ec677d6ec9a7c0d6c3d27554e73e1270d783e177827b7eb46e01ac",
+      "digest": "sha256:da9d33133ad44ac515f3350a8a1f7f941ba2aa9bbd576e68278a18e23fa4b949",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:33Z",
-      "updated_at": "2026-10-20T13:13:34Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs.rb"
+      "created_at": "2026-10-26T08:54:13Z",
+      "updated_at": "2026-10-26T08:54:13Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs.rb"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373867",
-      "id": 659373867,
-      "node_id": "RA_kwDOIyKbPs4nTT8r",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573610",
+      "id": 677573610,
+      "node_id": "RA_kwDOIyKbPs4oYvPq",
       "name": "sha256.sum",
       "label": "",
       "uploader": {
@@ -498,16 +498,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 399,
-      "digest": "sha256:93d8f5fa56c1089157ef5dbeeff99e3ec6eb5c5b7b0e4840ed15737b7b73a7fd",
+      "digest": "sha256:24a5bbee5896271c1e977e0358324912fb101998b929da49c46f918b7bddfebf",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:33Z",
-      "updated_at": "2026-10-20T13:13:33Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/sha256.sum"
+      "created_at": "2026-10-26T08:54:13Z",
+      "updated_at": "2026-10-26T08:54:14Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/sha256.sum"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373872",
-      "id": 659373872,
-      "node_id": "RA_kwDOIyKbPs4nTT8w",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573619",
+      "id": 677573619,
+      "node_id": "RA_kwDOIyKbPs4oYvPz",
       "name": "source.tar.gz",
       "label": "",
       "uploader": {
@@ -533,17 +533,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 8794073,
-      "digest": "sha256:96486f0e03892e507b77b4f19ac982629ce9c481369a63848d8e1dce9fbe1931",
+      "size": 8794160,
+      "digest": "sha256:0ad6de65d4e04ac7d3a3895e6283be2a8756193724e7cca4726996582d5186ae",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:33Z",
-      "updated_at": "2026-10-20T13:13:34Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/source.tar.gz"
+      "created_at": "2026-10-26T08:54:14Z",
+      "updated_at": "2026-10-26T08:54:14Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/source.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/659373876",
-      "id": 659373876,
-      "node_id": "RA_kwDOIyKbPs4nTT80",
+      "url": "https://api.github.com/repos/jvanbuel/flowrs/releases/assets/677573628",
+      "id": 677573628,
+      "node_id": "RA_kwDOIyKbPs4oYvP8",
       "name": "source.tar.gz.sha256",
       "label": "",
       "uploader": {
@@ -570,14 +570,14 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 81,
-      "digest": "sha256:d96bfe895b25c0ed488dab2b4a24440db56746e16f433839f181c9757e42f71c",
+      "digest": "sha256:145cee5fbbe9f7b035626cc1e0588a62e61495f3c4da148bd91c0b7005080b75",
       "download_count": 0,
-      "created_at": "2026-10-20T13:13:34Z",
-      "updated_at": "2026-10-20T13:13:34Z",
-      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/source.tar.gz.sha256"
+      "created_at": "2026-10-26T08:54:14Z",
+      "updated_at": "2026-10-26T08:54:14Z",
+      "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/source.tar.gz.sha256"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/jvanbuel/flowrs/tarball/flowrs-tui-v0.16.1",
-  "zipball_url": "https://api.github.com/repos/jvanbuel/flowrs/zipball/flowrs-tui-v0.16.1",
-  "body": "## Release Notes\n\n### Fixed\n\n- *(logs)* measure scroll bottom in wrapped rows ([#746](https://github.com/jvanbuel/flowrs/pull/746))\n\n### Other\n\n- *(deps)* bump serde_json from 1.0.151 to 1.0.154 ([#744](https://github.com/jvanbuel/flowrs/pull/744))\n- *(deps)* bump tokio from 1.53.2 to 1.53.3 ([#743](https://github.com/jvanbuel/flowrs/pull/743))\n- *(deps)* bump toml from 1.1.7+spec-1.1.0 to 1.1.8+spec-1.1.0\n\n## Install flowrs-tui 0.16.1\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-installer.sh | sh\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install jvanbuel/flowrs/flowrs\n```\n\n## Download flowrs-tui 0.16.1\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [flowrs-tui-aarch64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-aarch64-apple-darwin.tar.xz.sha256) |\n| [flowrs-tui-x86_64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-apple-darwin.tar.xz.sha256) |\n| [flowrs-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.1/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n\n"
+  "tarball_url": "https://api.github.com/repos/jvanbuel/flowrs/tarball/flowrs-tui-v0.16.2",
+  "zipball_url": "https://api.github.com/repos/jvanbuel/flowrs/zipball/flowrs-tui-v0.16.2",
+  "body": "## Release Notes\n\n### Other\n\n- *(deps)* bump webbrowser from 1.2.4 to 1.2.5 ([#747](https://github.com/jvanbuel/flowrs/pull/747))\n- *(deps)* bump tokio from 1.54.0 to 1.54.1 ([#748](https://github.com/jvanbuel/flowrs/pull/748))\n- *(deps)* bump aws-config from 1.12.0 to 1.13.0 ([#749](https://github.com/jvanbuel/flowrs/pull/749))\n- *(deps)* bump google-cloud-auth from 1.17.0 to 1.18.0 ([#750](https://github.com/jvanbuel/flowrs/pull/750))\n\n## Install flowrs-tui 0.16.2\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-installer.sh | sh\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install jvanbuel/flowrs/flowrs\n```\n\n## Download flowrs-tui 0.16.2\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [flowrs-tui-aarch64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-aarch64-apple-darwin.tar.xz.sha256) |\n| [flowrs-tui-x86_64-apple-darwin.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-apple-darwin.tar.xz.sha256) |\n| [flowrs-tui-x86_64-unknown-linux-gnu.tar.xz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.2/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n\n"
 }
