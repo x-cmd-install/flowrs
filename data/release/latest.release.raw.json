@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16331,
       "digest": "sha256:bdf1c30eb6084e6490b189265310b14870529af0d1d22fad44b42492be820dd3",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-02T14:32:05Z",
       "updated_at": "2026-11-02T14:32:06Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/dist-manifest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6077328,
       "digest": "sha256:05995085f64d8402f5e863eba8d4f7aa710a375d7fec25bd5e2fd9c38a90772a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-02T14:32:05Z",
       "updated_at": "2026-11-02T14:32:06Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/flowrs-tui-aarch64-apple-darwin-update"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:685432a0ce7020607490c0f283fa9acf57e051d5091f5fa06ffd6ae513fe59b3",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-02T14:32:05Z",
       "updated_at": "2026-11-02T14:32:05Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/flowrs-tui-aarch64-apple-darwin.tar.xz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 49695,
       "digest": "sha256:8fdecc45f046789e6b8cd2e0e3e46102306810ce6294eee2cac6ee2d6810a0bb",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-02T14:32:05Z",
       "updated_at": "2026-11-02T14:32:05Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/flowrs-tui-installer.sh"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6290864,
       "digest": "sha256:d856c0326d97bce2b40dedb82a92edab30578a062b57deb908990a1335b64cba",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-02T14:32:06Z",
       "updated_at": "2026-11-02T14:32:06Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/flowrs-tui-x86_64-apple-darwin-update"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3505592,
       "digest": "sha256:57443a65df5c9d1b8dfeb0a3c0deb8acc3ae9f7343a5b6e1b5ea71eb93baebe2",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-02T14:32:06Z",
       "updated_at": "2026-11-02T14:32:07Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/flowrs-tui-x86_64-apple-darwin.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:42a207daeae1d5dafd36b811cc2c957607ffb0a7b1f6c757ba508d9204e193ad",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-02T14:32:06Z",
       "updated_at": "2026-11-02T14:32:06Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/flowrs-tui-x86_64-apple-darwin.tar.xz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3812324,
       "digest": "sha256:e6f64a5c67a5fd9498b5fcdf5222d4f130b21216123be988ee839177fd92374b",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-11-02T14:32:06Z",
       "updated_at": "2026-11-02T14:32:08Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/flowrs-tui-x86_64-unknown-linux-gnu.tar.xz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2063,
       "digest": "sha256:cdc6f3ad4310462eabdd57be3693bae3b69bbfca2e9f7c0200c84875b55c81d5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-02T14:32:07Z",
       "updated_at": "2026-11-02T14:32:07Z",
       "browser_download_url": "https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.16.3/flowrs.rb"
