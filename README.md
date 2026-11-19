@@ -31,28 +31,28 @@ Total: **17,247** lines of code across **185** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `flowrs-tui-v0.16.3` (2026-11-02)
-- **Last commit**: 2026-11-16
+- **Latest**: `flowrs-tui-v0.16.5` (2026-11-17)
+- **Last commit**: 2026-11-17
 - **Assets in release**: 15
 
 ## Popularity
 
-- **Stars**: 175 · **Forks**: 22 · **Open issues**: 102 · **Contributors**: 12
+- **Stars**: 176 · **Forks**: 22 · **Open issues**: 102 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 112 · **Merged PRs**: 599 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 5 · **Commits**: 726
+- **Releases**: 114 · **Merged PRs**: 601 · **Open PRs**: 4 · **Closed issues**: 97 · **Open issues**: 5 · **Commits**: 728
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 17 | 0 | 1 | 0 | 14 |
-| last60d | 2026-09-18 | 6 | 28 | 3 | 2 | 0 | 29 |
-| 90d | 2026-08-19 | 15 | 40 | 4 | 2 | 0 | 49 |
-| last180d | 2026-05-21 | 40 | 103 | 4 | 3 | 0 | 128 |
-| 360d | 2025-11-22 | 89 | 260 | 4 | 15 | 4 | 332 |
-| last720d | 2024-11-27 | 100 | 413 | 4 | 53 | 4 | 715 |
+| 30d | 2026-10-20 | 5 | 16 | 0 | 0 | 0 | 16 |
+| last60d | 2026-09-20 | 8 | 30 | 3 | 2 | 0 | 31 |
+| 90d | 2026-08-21 | 17 | 42 | 4 | 2 | 0 | 51 |
+| last180d | 2026-05-23 | 42 | 105 | 4 | 3 | 0 | 130 |
+| 360d | 2025-11-24 | 91 | 259 | 4 | 15 | 4 | 334 |
+| last720d | 2024-11-29 | 100 | 414 | 4 | 53 | 4 | 717 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for flowrs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:05:16Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:26:11Z._
