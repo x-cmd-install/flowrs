@@ -47,12 +47,12 @@ Total: **17,486** lines of code across **185** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 6 | 17 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 11 | 30 | 3 | 2 | 0 | 0 |
-| 90d | 2026-08-28 | 19 | 45 | 4 | 2 | 0 | 0 |
-| last180d | 2026-05-30 | 42 | 105 | 4 | 3 | 0 | 0 |
-| 360d | 2025-12-01 | 94 | 264 | 4 | 15 | 4 | 0 |
-| last720d | 2024-12-06 | 100 | 416 | 4 | 43 | 4 | 711 |
+| 30d | 2026-10-28 | 6 | 17 | 0 | 0 | 0 | 20 |
+| last60d | 2026-09-28 | 11 | 27 | 3 | 1 | 0 | 33 |
+| 90d | 2026-08-29 | 19 | 45 | 4 | 2 | 0 | 54 |
+| last180d | 2026-05-31 | 42 | 105 | 4 | 3 | 0 | 138 |
+| 360d | 2025-12-02 | 94 | 264 | 4 | 15 | 4 | 342 |
+| last720d | 2024-12-07 | 100 | 415 | 4 | 39 | 4 | 711 |
 
 ## Release assets
 
@@ -74,6 +74,14 @@ Total: **17,486** lines of code across **185** files in the top 5 languages.
 | [source.tar.gz](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.17.0/source.tar.gz) | 8.4 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/jvanbuel/flowrs/releases/download/flowrs-tui-v0.17.0/source.tar.gz.sha256) | 81 B | `other` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/flowrs). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.17.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for flowrs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `flowrs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +91,4 @@ Install metadata for flowrs lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:32:13Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:13:39Z._
