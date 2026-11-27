@@ -1,9 +1,21 @@
+- repo: aur
+  srcname: flowrs-bin
+  binname: flowrs-bin
+  visiblename: flowrs-bin
+  version: 0.17.0
+  origversion: 0.17.0-1
+  status: newest
+  summary: TUI for Apache Airflow
+  maintainers:
+    - ahp@aur
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: flowrs
   visiblename: flowrs
-  version: 0.16.7
+  version: 0.17.0
   origversion: null
-  status: unique
+  status: newest
   summary: TUI application for Apache Airflow
 - repo: homebrew
   srcname: flowrs
